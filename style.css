@@ -1,15 +1,14 @@
-/* Özel stiller */
 .green-bar {
   background-color: rgb(47, 99, 177);
   height: 10px;
   width: 100%;
 }
 
-/* Kitap kartları için stil */
 .row{
   display: flex;
   justify-content: space-between;
 }
+
 .container{
   display: flex;
   flex-direction: column;
@@ -20,28 +19,27 @@
   justify-content: space-between; 
   text-align: center;
 }
+
 .summary{
   width: 350px;
   height: 350px;
 }
 
-
-
-
 .navbar-brand {
   font-size: 50px;
-  
 }
+
 .navbar-brand-container{
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
   gap: 20px;
 }
+
 .nav-item {
   justify-content: center;
-
 }
+
 .nav-link {
   font-size: 30px;
   text-decoration: none;
@@ -56,11 +54,13 @@
   flex: 1 1 200px;
   gap: 20px;
 }
+
 .logo {
   margin-top: 29px;
   width: 100px;
   height: 100px;
 }
+
 .navbar-nav{
   display: flex;
   justify-content: space-between;
