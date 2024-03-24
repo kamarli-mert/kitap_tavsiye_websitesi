@@ -1,0 +1,79 @@
+web sitesi prompt'ları
+0- kullanılan AI --> ChatGPT 3.5
+
+1- Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+   Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+   Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+   Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+   HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+   Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+   Yazdığınız kodların hiçbirine açıklama yapmayın. 
+   Her şeyi anlıyor musun? 
+   Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+2- Websitem bir portfolyö galeri websitesi ve burada kitap öneri paylaşmak istiyorum. 
+   Websitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+   Websitem içerisinde 6 tane kitap önerisinde bulunmak istiyorum. 
+   Bu kitapları yan yana 3 tane olmak üzere 2 sıra halinde yerleştirmeni istiyorum. 
+   Bunun için kitapların resimlerini ve isimlerini yazmam için alanlar oluştur.
+   HTML, CSS ve Javascript kodlarını ayrı çıktılar olarak vermen önemlidir
+   Websitesinin üst kısmında sayfanın boyuna olacak şekilde kalın bir yeşil şerit geçsin. 
+   Websitesinin gezinme menüsünün sol üst köşesinde "Mert's Library" yazsın ve bu yazının sağ tarafına sitenin logosunu koymam için bir alan oluştur. 
+   Sağ üst köşesinde de "Ben Kimim?", "İçerik" ve "İletişim" yazan başlıklar bulunsun. 
+   Ana sayfadaki "Ben Kimim?" ve "İletişim" başlıklarına tıklandığı zaman her biri hakkında bilgilendirme metni olan ayrı bir websitesi oluşsun.
+   Yeni oluşturulan web sitesinin sol üst tarafında resmim koymam için bir alan oluştur. 
+   Sayfanın sağ tarafına ise metin yazmam için bir metin kutusu oluştur. bana yardım edebilir misin?
+
+3- html kısmında 6 tane kitap olacaktı. ona dikkat ederek bu html koduna uygun css ve javascript kodlarını da tekrar yazar mısın?
+
+(ChatGPT'den aldığım kodları Visual Studio Code üzerinden derleyerek mevcut belgilerim ışığında kod üzerindeki hataları düzelttim ve bazı noktalara eklemelerde bulundum.)
+
+
+
+
+Kitap ismi oluşturulma prompt'ları
+0- kullanılan AI --> ChatGPT 3.5 
+
+1- bana çocuklar için yazılabilecek 10 tane kitap ismi oluştur. bu kitapların içeriğini birer cümle ile açıkla. saçma ve komik şeyler olabilir
+
+2- Write a short story about 4.
+
+3- summerize it in 1 pragraph
+
+4- türkçeye çevir
+
+(bu şekilde 6 adet hikaye ismi ve bu hikayelerin özetlerini oluşturulmuştur.)
+
+
+
+Kitapların görsellerini oluşturmak için kullanılan prompt'lar
+
+0- kullanılan AI --> ChatGPT 3.5 ve sdxlturbo.ai
+
+1- "A little bear and a kitten sit on a log in the forest and look at each other. butterflies and trees appear in the background"
+
+2- "A girl and octopus swimming in the  sea. There will be octopuses and various fish in the background."
+
+3- "One cactus-shaped beautiful princess and one cactus-shaped dragon"
+
+4- "In the infinity of the universe, the Space Shark and the Cosmic Crab against the  Viper"
+
+5- "A scorpion and a snake in the desert. There is a sunset and rocks in the background"
+
+6- "A farmer smiles and looks at the camera. The sunset and fields are visible behind him"
+
+(bu ifadeler ChatGPT tarafından kitap özetleri referans alınarak oluşturulup sdxlturbo.ai ile görselleştirilmiştir.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
