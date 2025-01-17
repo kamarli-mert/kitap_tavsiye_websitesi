@@ -27,13 +27,27 @@ To run the project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kamarli-mert/kitap_tavsiye_websitesi.git
-   
+
+
 2. **Navigate to the Project Directory**:
-  ```bash
-  cd kitap_tavsiye_websitesi
+    ```bash
+    cd kitap_tavsiye_websitesi
 
-3. **Open the HTML Files**: Launch index.html, index2.html, or index3.html in your web browser to view the project
+3. **Open the HTML Files**:
+•Launch index.html in your web browser to view the project.
+•You can also open index2.html or index3.html if you want to explore other versions.
 
+Usage
+Upon accessing the website, you can browse through various book summaries. The user-friendly interface allows you to easily navigate and find books that pique your interest. Each summary is crafted to give you a quick insight into the book's content, helping you make informed reading choices.
+
+Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue to discuss your ideas.
+
+License
+This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
+
+Contact
+If you have any questions or feedback regarding the project, please reach out to me at mertkamarli32@gmail.com. I appreciate your input and am always looking to improve the project!
 
 
 
